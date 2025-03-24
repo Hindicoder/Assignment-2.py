@@ -8,3 +8,7 @@ else:
 
 #----------------------------Task-2.py------------------------------------
 
+for i in range(1,51):
+  print(i)
+sum=sum(range(1,51))
+print("the sum of number from 1 to 50 is: ",sum)
